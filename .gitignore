@@ -1,0 +1,5 @@
+*.class
+*.txt
+.vscode/
+desktop.ini
+tempCodeRunnerFile.java
